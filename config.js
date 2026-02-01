@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "You Make Me The Happiest Person In The World 💝💖💝💓",
-        message: "Even though we are so far apart, I still want to be your Valentine, I love you so much mi amor. Next One I hope we will spend it Together",
+        message: "Even though we are so far apart, I still want to be your Valentine. In the next One I hope we will spend it Together. I love you so much!!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
